@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
+  // App is in root component, and App is also Component in React
   <React.StrictMode>
     <App />
   </React.StrictMode>,
